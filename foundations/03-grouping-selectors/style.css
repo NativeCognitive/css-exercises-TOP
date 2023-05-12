@@ -1,0 +1,13 @@
+.button {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.should-click {
+    background-color: black;
+    color: white;
+}
+
+.should-not-click {
+    background-color: yellow;
+}
